@@ -1,0 +1,54 @@
+
+#header {
+    Font-family: Lato;
+    font-size: 1em;
+    background-color:
+    color:red;
+    text-align:center;
+    padding: 1px;	 
+}
+#nav {
+    Font-family: Lato;
+    line-height:30px;
+    background-color:#eeeeee;
+    height: auto;
+    width:auto;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:80%;
+    Font-family: Josefin Slab;
+    font-size: 20px;
+    float:Left;
+    padding:10px;	 	 
+}
+
+#section h1{
+  font-size: 2em;`
+}
+
+#section h2 {
+  font-size: 3em;
+  color:red;
+}
+
+#section h3{
+  color:pink;
+}
+
+#footer {
+    font-family: Lato;
+    background-color:;
+    color:red;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+body{
+background-image:url("http://basketballsanantonio.com/wp-content/uploads/2013/02/2012-ganon-baker-at-baylor-university-182.jpg")
+}
+
+.nav li {
+  display: inline;
+}
